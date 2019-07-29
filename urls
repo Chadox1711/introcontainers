@@ -1,7 +1,9 @@
 Material parte 1:
 https://docs.google.com/document/d/1rLKnhsvKL_s7fvDJEhg3MoN49R6KYl8L_PFsNdD3tJs
 
-El acceso de los alumnos al lab se hace mediante una sesión de escritorio remoto a un servidor virtual. Desde el aula, la dirección de ese servidor es: RDS.Lab-Access.com y se conectan en el puerto estándar de RDP (3389). Mientras que los alumnos que se conectan remotamente lo harán a : RDS.Lab-Access.com:9389
+El acceso de los alumnos al lab se hace mediante una sesión de escritorio remoto a un servidor virtual. Desde el aula, la dirección de ese servidor es: RDS.Lab-Access.com y se conectan en el puerto estándar de RDP (3389). Mientras que los alumnos que se conectan remotamente lo harán a : 
+
+RDS.Lab-Access.com:9389
 
  
 
@@ -11,6 +13,8 @@ Username: Lab\student
 
 Password: Pa$$w0rd
 
+RH0
+1
  
 
 Cuando se conectan, corre automáticamente un script que les pide una identificación. La identificación es un string de 3 caracteres que se forma del siguiente modo:
