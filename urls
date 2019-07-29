@@ -1,3 +1,22 @@
 Material parte 1:
 https://docs.google.com/document/d/1rLKnhsvKL_s7fvDJEhg3MoN49R6KYl8L_PFsNdD3tJs
 
+El acceso de los alumnos al lab se hace mediante una sesión de escritorio remoto a un servidor virtual. Desde el aula, la dirección de ese servidor es: RDS.Lab-Access.com y se conectan en el puerto estándar de RDP (3389). Mientras que los alumnos que se conectan remotamente lo harán a : RDS.Lab-Access.com:9389
+
+ 
+
+Las credenciales de conexión son las mismas para todos los alumnos:
+
+Username: Lab\student
+
+Password: Pa$$w0rd
+
+ 
+
+Cuando se conectan, corre automáticamente un script que les pide una identificación. La identificación es un string de 3 caracteres que se forma del siguiente modo:
+
+ 
+
+Los primeros dos caracteres son lo que nosotros llamamos instancia, y es un identificador de este curso para distinguirlo de otros cursos que se estén realizando con setup centralizado en estos servidores. Para el caso de este curso la instancia es: RH
+El identificador del alumno, que es un número hexadecimal que inicia en 1. Para el caso de este curso las instancias van desde:0 hasta: G
+ 
