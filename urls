@@ -1,3 +1,6 @@
+Encuesta:
+https://metricsthatmatter.com/itcol6
+
 Material parte 1:
 https://docs.google.com/document/d/1rLKnhsvKL_s7fvDJEhg3MoN49R6KYl8L_PFsNdD3tJs
 
@@ -12,6 +15,7 @@ https://docs.google.com/document/d/1TPCp-EO-kTuabAbY-kH-3h4US2bVNMXPWG0MhjHdgUA
 
 Material parte 5:
 https://docs.google.com/document/d/1mIOobdAQwe6LNq9ND49-NAZr_2kdGBPVYZGq4r9AdA8
+
 
 El acceso de los alumnos al lab se hace mediante una sesión de escritorio remoto a un servidor virtual. Desde el aula, la dirección de ese servidor es: RDS.Lab-Access.com y se conectan en el puerto estándar de RDP (3389). Mientras que los alumnos que se conectan remotamente lo harán a : 
 
